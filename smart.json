@@ -3,7 +3,7 @@
     "description": "A basic controller watching route-matches of ia-router-core",
     "homepage": "https://github.com/InnoAccel/ia-basiccontroller",
     "author": "Fritz Gerneth <fgerneth@effms.de>",
-    "version": "0.1.0",
+    "version": "0.2.0",
     "git": "https://github.com/InnoAccel/ia-basiccontroller.git",
     "packages": {
     }

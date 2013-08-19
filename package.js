@@ -9,4 +9,6 @@ Package.on_use(function (api, where) {
         'lib/namespace.js',
         'lib/Controller.js'
     ], 'client');
+
+    api.export("Controller");
 });
