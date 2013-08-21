@@ -10,5 +10,7 @@ Package.on_use(function (api, where) {
         'lib/Controller.js'
     ], 'client');
 
-    api.export("Controller");
+    if(api.export){
+        api.export("Controller");
+    }
 });
